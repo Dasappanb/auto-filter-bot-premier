@@ -24,7 +24,7 @@
 ```✤🅵🅾🆁 🅼🅾🆁🅴 🅷🅴🅻🅿 🅹🅾🅸🅽 🆃🅶/🆆🅰 🅶🆁🅾🆄🅿🆂✤```
 ## Deploy
 
-<a href="https://heroku.com/deploy?template=https://github.com/LXR-YOUTUBER-AMAL/auto-filter-bot-premier/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/Dasappanb/auto-filter-bot-premier/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 <i>
@@ -40,7 +40,7 @@
 
 ##### SUPPORT GROUPS
 
-[![SAwalogo](https://telegra.ph/file/0da96d2be9ac508c2e082.png)](https://chat.whatsapp.com/CBKnU789OGpBeCUTsWUs2y)
+[![SAwalogo](https://telegra.ph/file/7c92f4057ea1a7d353c9e.jpg)](https://chat.whatsapp.com/CBKnU789OGpBeCUTsWUs2y)
   <div align="center">
 
 
