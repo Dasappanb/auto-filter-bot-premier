@@ -10,7 +10,7 @@ from logging.handlers import RotatingFileHandler
 
 from .translation import Translation
 
-# Created https://t.me/sunaif_adkar
+# Created https://t.me/mr_dasappan_malayalam
 UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL")
 
 MT_CHANNEL_USERNAME = os.environ.get("JOIN_MAIN_CHANNEL")
